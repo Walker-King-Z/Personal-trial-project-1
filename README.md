@@ -1,6 +1,6 @@
-# AutoNeteaseMusic
+# Walker-King-Z/Personal-trial-project-1
 
-网易云音乐自动打卡刷每日推荐歌曲及歌单云函数
+一个网易云音乐自动打卡刷每日推荐歌曲及歌单云函数
 
 ## 关于
 
